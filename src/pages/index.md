@@ -9,7 +9,7 @@ sections:
       who need a sleek, modern SaaS site. 
     image: images/hero.png
     section_id: hero
-    title: This Is A Big Hero Headline Which I can Edit
+    title: This Is A Big Hero Headline
     type: section_hero
   - bg: gray
     featureslist:
