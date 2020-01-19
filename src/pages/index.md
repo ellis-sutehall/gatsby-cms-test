@@ -81,6 +81,10 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     type: section_posts
+  - type: section_hero
+  - bg: gray
+    type: section_pricing
+  - type: section_cta
 menus:
   main:
     title: Home
